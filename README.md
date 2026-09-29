@@ -1,2 +1,3 @@
 # Atividade github Cauã Andrade
-ativididade de repositorios
+Projeto feito
+no GitHub Desktop, na aula de Programação de Aplicativos
